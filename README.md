@@ -46,4 +46,32 @@ Designed with a sleek UI, smooth animations, and optimized for performance acros
 ---
 
 ## 📁 Folder Structure
+project/
+│── public/
+│── src/
+│ ├── components/
+│ ├── sections/
+│ ├── assets/
+│ ├── App.jsx
+│ └── main.jsx
+│── package.json
+│── README.md
+---
+
+## 📦 Installation & Setup
+
+Follow the steps below to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/jadhavyuvraj/portfolio.git
+
+# Navigate to project directory
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
 
