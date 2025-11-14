@@ -1,8 +1,8 @@
-# 💻 Kunj Desai — Portfolio Website
+# 💻 Yuvraj Jadhav — Portfolio Website
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-🌐 **Website:** [[kunj-Portfolio]](https://kunj-desai.netlify.app/)
+🌐 **Website:** [[Yuvraj-Portfolio]](https://yuvraj-jadhav.netlify.app/)
 
 🖼️ **Screenshots**
 <img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src="https://github.com/user-attachments/assets/6f78ceb0-363c-41e8-9eb9-a26fa814e8ac" />
@@ -60,8 +60,8 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
-* 📧 **Email:** [kunjd2803@gmail.com](mailto:kunjd2803@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/kunj-desai-07717b293/)
+* 📧 **Email:** [yuvijadhav159@gmail.com](mailto:yuvijadhav159@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/yuvraj-jadhav-842141288](https://www.linkedin.com/in/yuvraj-jadhav-842141288/)
 
 ---
 
