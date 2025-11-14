@@ -1,77 +1,82 @@
-# 🌐 Personal Portfolio Website
+# 💻 Kunj Desai — Portfolio Website
+Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
+It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-A modern, responsive, and fully featured personal portfolio website built using **React.js**.  
-This website showcases my work, skills, AI/ML expertise, certifications, and professional background.  
-Designed with a sleek UI, smooth animations, and optimized for performance across all devices.
+🌐 **Website:** [[kunj-Portfolio]](https://kunj-desai.netlify.app/)
 
+🖼️ **Screenshots**
+<img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src="https://github.com/user-attachments/assets/6f78ceb0-363c-41e8-9eb9-a26fa814e8ac" />
+<img width="1894" height="992" alt="image" src="https://github.com/user-attachments/assets/8a6eeff0-3ebc-446c-a1ac-5f1a02279ac8" />
+<img width="1903" height="1044" alt="Screenshot 2025-11-04 153204" src="https://github.com/user-attachments/assets/355b1c4c-83e6-4465-9081-bff34bb3ad3b" />
 ---
 
-## 🚀 Live Demo  
-🔗 **https://your-portfolio-link.vercel.app**  
-(Replace with your actual deployed link)
+## 🚀 Features
 
----
-
-## 🖼️ Preview  
-(Add screenshots here if you want)
-<img width="1836" height="981" alt="image" src="https://github.com/user-attachments/assets/b9a6e074-6aae-4cba-a06c-9834fde0cb0b" />
-
-
----
-
-## ✨ Features
-
-- 🎨 **Modern & Clean UI/UX** with smooth transitions  
-- 📱 **Fully Responsive** (Mobile, Tablet, Desktop)  
-- 🧩 **Reusable Components** built with React  
-- 🧠 Sections for **AI/ML, Projects, Certifications, Skills, About Me, and Contact**  
-- 💼 **Project Showcase** with GitHub & Live Demo links  
-- 📍 **Location, Expertise, Social Links** displayed neatly  
-- 🌙 Stylish **dark theme** with gradients and glow effects  
-- ⚡ **Fast loading**, SEO-friendly, and optimized build  
-- 🚀 Easy deployment using **Vercel / Netlify**
+* 🎨 **Modern UI/UX** with black-based aesthetic theme
+* ⚡ Smooth **Framer Motion** animations
+* 💼 **Projects, Resume, and Contact sections**
+* 🧠 Tech-focused portfolio highlighting AI/ML projects
+* 📨 Functional contact form powered by **EmailJS**
+* 🧩 Responsive design for all screen sizes
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category      | Technologies |
-|---------------|--------------|
-| **Frontend**  | React.js, HTML5, CSS3, JavaScript |
-| **Styling**   | Tailwind CSS / Custom CSS |
-| **Icons**     | React Icons |
-| **Version Control** | Git, GitHub |
-| **Deployment** | Vercel / Netlify |
+| Category            | Tools / Libraries                        |
+| ------------------- | ---------------------------------------- |
+| **Frontend**        | React.js, HTML5, CSS3, JavaScript (ES6+) |
+| **Styling**         | Tailwind CSS / Custom CSS                |
+| **Animation**       | Framer Motion                            |
+| **Contact Form**    | EmailJS                                  |
+| **Version Control** | Git & GitHub                             |
+| **Deployment**      | Vercel / Netlify                         |
 
 ---
 
-## 📁 Folder Structure
-project/
-│── public/
-│── src/
-│ ├── components/
-│ ├── sections/
-│ ├── assets/
-│ ├── App.jsx
-│ └── main.jsx
-│── package.json
-│── README.md
----
+## ⚙️ Setup Instructions
 
-## 📦 Installation & Setup
-
-Follow the steps below to run the project locally:
+To run this project locally:
 
 ```bash
-# Clone the repository
-git clone https://github.com/jadhavyuvraj/portfolio.git
+# 1️⃣ Clone the repository
+git clone https://github.com/kunj2803/kunjdesai-portfolio.git
 
-# Navigate to project directory
-cd portfolio
+# 2️⃣ Navigate to project directory
+cd kunjdesai-portfolio
 
-# Install dependencies
+# 3️⃣ Install dependencies
 npm install
 
-# Start development server
-npm run dev
+# 4️⃣ Run development server
+npm start or npm run dev
+```
 
+Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
+
+---
+
+## 📬 Contact
+
+If you’d like to collaborate or just say hi 👋, feel free to reach out!
+
+* 📧 **Email:** [kunjd2803@gmail.com](mailto:kunjd2803@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/kunj-desai-07717b293/)
+
+---
+
+## 🌟 Deployment
+
+Deployed seamlessly on **Vercel** for continuous integration and fast CDN delivery.
+Every push to the `main` branch triggers an automatic rebuild and deployment.
+
+---
+
+### 🏁 License
+
+This project is open source and available under the [MIT License](LICENSE).
+Feel free to fork, use, and build upon it ⭐
+
+---
+
+> *“Showcasing my work and passion through technology 💻”*
