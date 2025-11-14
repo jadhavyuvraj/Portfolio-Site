@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-🌐 **Website:** [[Yuvraj-Portfolio]](https://yuvraj-jadhav.netlify.app/)
+🌐 **Website:** [[Yuvraj-Portfolio]](https://yuvraj-portfolio-hazel.vercel.app/)
 
 🖼️ **Screenshots**
 <img width="1847" height="981" alt="image" src="https://github.com/user-attachments/assets/75778481-9862-4e01-907b-a6f7c724a51d" />
